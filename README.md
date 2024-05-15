@@ -1,6 +1,6 @@
 # Ex-10-IMPLEMENTATION OF SIMPLE CODE OPTIMIZATION TECHNIQUES
-# NAME: Akash A
-# REGISTER NUMBER:212221040010
+#name :dheeraj
+# REGISTER NUMBER:212221040050
 # Date:10.04.2024
 # Aim:
 To write a C program to implement simple code optimization techniques such as Common subexpression elimination and Dead Code elimination.
